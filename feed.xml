@@ -3,7 +3,7 @@
     <title>CoinPapers</title>
     <link href="https://github.com/DevTeamQUANTUM/coinpapers.git/feed.xml" rel="self" />
     <link href="https://github.com/DevTeamQUANTUM/coinpapers.git" />
-    <updated>2024-11-20T12:08:12+01:00</updated>
+    <updated>2024-11-20T17:17:55+01:00</updated>
     <author>
         <name>CoinPapers Team</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://github.com/DevTeamQUANTUM/coinpapers.git/le-salvador-achetera-un-bitcoin-par-jour-5.html"/>
         <id>https://github.com/DevTeamQUANTUM/coinpapers.git/le-salvador-achetera-un-bitcoin-par-jour-5.html</id>
         <media:content url="https://github.com/DevTeamQUANTUM/coinpapers.git/media/posts/5/8Kp9aVAU4788zsG8HR5rmi.jpg.webp" medium="image" />
+            <category term="bitcoin"/>
 
         <updated>2024-11-20T12:06:20+01:00</updated>
             <summary>
@@ -59,6 +60,7 @@
         <link href="https://github.com/DevTeamQUANTUM/coinpapers.git/le-salvador-achetera-un-bitcoin-par-jour-4.html"/>
         <id>https://github.com/DevTeamQUANTUM/coinpapers.git/le-salvador-achetera-un-bitcoin-par-jour-4.html</id>
         <media:content url="https://github.com/DevTeamQUANTUM/coinpapers.git/media/posts/4/8Kp9aVAU4788zsG8HR5rmi.jpg.webp" medium="image" />
+            <category term="bitcoin"/>
 
         <updated>2024-11-20T12:06:14+01:00</updated>
             <summary>

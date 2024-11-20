@@ -21,9 +21,10 @@
                 "name": "CoinPapers Team"
             },
             "tags": [
+                   "bitcoin"
             ],
             "date_published": "2024-11-20T12:06:20+01:00",
-            "date_modified": "2024-11-20T12:07:52+01:00"
+            "date_modified": "2024-11-20T17:16:09+01:00"
         },
         {
             "id": "https://github.com/DevTeamQUANTUM/coinpapers.git/le-salvador-achetera-un-bitcoin-par-jour-4.html",
@@ -36,9 +37,10 @@
                 "name": "CoinPapers Team"
             },
             "tags": [
+                   "bitcoin"
             ],
             "date_published": "2024-11-20T12:06:14+01:00",
-            "date_modified": "2024-11-20T12:08:00+01:00"
+            "date_modified": "2024-11-20T17:16:15+01:00"
         },
         {
             "id": "https://github.com/DevTeamQUANTUM/coinpapers.git/le-salvador-achetera-un-bitcoin-par-jour-3.html",
@@ -53,7 +55,7 @@
             "tags": [
             ],
             "date_published": "2024-11-20T12:03:31+01:00",
-            "date_modified": "2024-11-20T12:08:12+01:00"
+            "date_modified": "2024-11-20T17:17:55+01:00"
         }
     ]
 }
