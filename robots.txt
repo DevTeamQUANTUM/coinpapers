@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://devteamquantum.github.io/coinpapers/sitemap.xml
+Sitemap: https://coinpapers.news/sitemap.xml

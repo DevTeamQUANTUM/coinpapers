@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://devteamquantum.github.io/coinpapers/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://coinpapers.news/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://devteamquantum.github.io/coinpapers/</loc>
+<loc>https://coinpapers.news/</loc>
 </url>
 <url>
-<loc>https://devteamquantum.github.io/coinpapers/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html</loc>
+<loc>https://coinpapers.news/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html</loc>
 <lastmod>2024-11-25T09:22:53+01:00</lastmod>
 </url>
 <url>
-<loc>https://devteamquantum.github.io/coinpapers/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html</loc>
-<lastmod>2024-11-25T09:29:07+01:00</lastmod>
+<loc>https://coinpapers.news/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html</loc>
+<lastmod>2024-11-25T13:00:37+01:00</lastmod>
+<image:image>
+<image:loc>https://coinpapers.news/media/posts/7/2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
-<loc>https://devteamquantum.github.io/coinpapers/le-salvador-achetera-un-bitcoin-par-jour-3.html</loc>
-<lastmod>2024-11-25T09:18:17+01:00</lastmod>
+<loc>https://coinpapers.news/le-salvador-achetera-un-bitcoin-par-jour-3.html</loc>
+<lastmod>2024-11-25T13:01:30+01:00</lastmod>
 </url>
 <url>
-<loc>https://devteamquantum.github.io/coinpapers/robert-f-kennedy-jrs-bold-bitcoin-gamble.html</loc>
-<lastmod>2024-11-25T09:33:10+01:00</lastmod>
+<loc>https://coinpapers.news/robert-f-kennedy-jrs-bold-bitcoin-gamble.html</loc>
+<lastmod>2024-11-25T13:02:47+01:00</lastmod>
+<image:image>
+<image:loc>https://coinpapers.news/media/posts/8/2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>

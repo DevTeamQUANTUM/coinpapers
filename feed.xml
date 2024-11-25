@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CoinPapers</title>
-    <link href="https://devteamquantum.github.io/coinpapers/feed.xml" rel="self" />
-    <link href="https://devteamquantum.github.io/coinpapers" />
-    <updated>2024-11-25T09:33:10+01:00</updated>
+    <link href="https://coinpapers.news/feed.xml" rel="self" />
+    <link href="https://coinpapers.news" />
+    <updated>2024-11-25T13:02:47+01:00</updated>
     <author>
         <name>CoinPapers Team</name>
     </author>
-    <id>https://devteamquantum.github.io/coinpapers</id>
+    <id>https://coinpapers.news</id>
 
     <entry>
         <title>Robert F. Kennedy Jr.’s Bold Bitcoin Gamble</title>
         <author>
             <name>CoinPapers Team</name>
         </author>
-        <link href="https://devteamquantum.github.io/coinpapers/robert-f-kennedy-jrs-bold-bitcoin-gamble.html"/>
-        <id>https://devteamquantum.github.io/coinpapers/robert-f-kennedy-jrs-bold-bitcoin-gamble.html</id>
+        <link href="https://coinpapers.news/robert-f-kennedy-jrs-bold-bitcoin-gamble.html"/>
+        <id>https://coinpapers.news/robert-f-kennedy-jrs-bold-bitcoin-gamble.html</id>
+        <media:content url="https://coinpapers.news/media/posts/8/2.png" medium="image" />
+            <category term="Bitcoin"/>
 
         <updated>2024-11-25T09:33:10+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://coinpapers.news/media/posts/8/2.png" alt="" />
                     In a world where traditional financial systems often feel immutable, Robert F. Kennedy Jr. is carving out a distinct path.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://coinpapers.news/media/posts/8/2.png" class="type:primaryImage" alt="" /></p>
                 <p>In a world where traditional financial systems often feel immutable, Robert F. Kennedy Jr. is carving out a distinct path. The political scion and environmental lawyer has emerged as a vocal advocate for Bitcoin, not only as a financial tool but as a cornerstone of economic freedom. By aligning his personal wealth and political platform with the cryptocurrency, Kennedy is betting on a future where digital assets play a transformative role in both personal finance and national governance.</p>
 <p>Kennedy’s embrace of Bitcoin is as ideological as it is practical. Speaking on November 16, he described Bitcoin as the "currency of freedom," positioning it as a defense against inflation—a force he believes is eroding the middle class. His conviction runs deep. After attending a Bitcoin conference, Kennedy disclosed that he had invested a significant portion of his personal wealth in the cryptocurrency. This decision, he explained, was not merely about financial returns; it was a declaration of faith in Bitcoin’s capacity to reshape the global economic landscape.</p>
 <h3>A Family Affair and a National Vision</h3>
@@ -47,17 +51,20 @@
         <author>
             <name>CoinPapers Team</name>
         </author>
-        <link href="https://devteamquantum.github.io/coinpapers/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html"/>
-        <id>https://devteamquantum.github.io/coinpapers/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html</id>
+        <link href="https://coinpapers.news/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html"/>
+        <id>https://coinpapers.news/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html</id>
+        <media:content url="https://coinpapers.news/media/posts/7/2.png" medium="image" />
 
         <updated>2024-11-25T09:29:07+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://coinpapers.news/media/posts/7/2.png" alt="" />
                     In the unpredictable world of cryptocurrency, two unlikely players—El Salvador and Bhutan—have emerged as intriguing case studies in leveraging Bitcoin&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://coinpapers.news/media/posts/7/2.png" class="type:primaryImage" alt="" /></p>
                 <p>In the unpredictable world of cryptocurrency, two unlikely players—El Salvador and Bhutan—have emerged as intriguing case studies in leveraging Bitcoin for national gain. As Bitcoin flirts with record highs near $90,000, these two nations are capitalizing on their early and bold investments in the digital currency. Their strategies, while distinct, underscore the growing intersection of cryptocurrency with national economic policy.</p>
 <h3>El Salvador’s Bold Bitcoin Experiment</h3>
 <p>El Salvador became the first country to adopt Bitcoin as legal tender in September 2021, making a daring move that continues to capture global attention. Under President Nayib Bukele’s leadership, the country embarked on an unprecedented experiment by purchasing its first 200 Bitcoin, aiming to integrate the cryptocurrency into daily transactions and bolster its economy. Since then, El Salvador has steadily accumulated around 5,900 Bitcoin, turning it into a central piece of its financial strategy.</p>
@@ -80,8 +87,8 @@
         <author>
             <name>CoinPapers Team</name>
         </author>
-        <link href="https://devteamquantum.github.io/coinpapers/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html"/>
-        <id>https://devteamquantum.github.io/coinpapers/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html</id>
+        <link href="https://coinpapers.news/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html"/>
+        <id>https://coinpapers.news/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html</id>
 
         <updated>2024-11-25T09:22:53+01:00</updated>
             <summary>
@@ -117,8 +124,8 @@
         <author>
             <name>CoinPapers Team</name>
         </author>
-        <link href="https://devteamquantum.github.io/coinpapers/le-salvador-achetera-un-bitcoin-par-jour-3.html"/>
-        <id>https://devteamquantum.github.io/coinpapers/le-salvador-achetera-un-bitcoin-par-jour-3.html</id>
+        <link href="https://coinpapers.news/le-salvador-achetera-un-bitcoin-par-jour-3.html"/>
+        <id>https://coinpapers.news/le-salvador-achetera-un-bitcoin-par-jour-3.html</id>
 
         <updated>2024-11-20T12:03:31+01:00</updated>
             <summary>
