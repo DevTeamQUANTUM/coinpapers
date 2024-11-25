@@ -3,7 +3,7 @@
     <title>CoinPapers</title>
     <link href="https://coinpapers.news/feed.xml" rel="self" />
     <link href="https://coinpapers.news" />
-    <updated>2024-11-25T14:33:15+01:00</updated>
+    <updated>2024-11-25T14:35:24+01:00</updated>
     <author>
         <name>CoinPapers Team</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://coinpapers.news/robert-f-kennedy-jrs-bold-bitcoin-gamble.html"/>
         <id>https://coinpapers.news/robert-f-kennedy-jrs-bold-bitcoin-gamble.html</id>
         <media:content url="https://coinpapers.news/media/posts/8/2.png" medium="image" />
+            <category term="USA"/>
             <category term="Bitcoin"/>
 
         <updated>2024-11-25T09:33:10+01:00</updated>
@@ -53,6 +54,7 @@
         </author>
         <link href="https://coinpapers.news/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html"/>
         <id>https://coinpapers.news/el-salvador-and-bhutan-riding-the-bitcoin-wave-to-new-heights.html</id>
+            <category term="Bitcoin"/>
 
         <updated>2024-11-25T09:29:07+01:00</updated>
             <summary>
@@ -86,6 +88,8 @@
         </author>
         <link href="https://coinpapers.news/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html"/>
         <id>https://coinpapers.news/bitcoins-big-moment-michael-saylor-pushes-microsoft-toward-a-crypto-revolution.html</id>
+            <category term="USA"/>
+            <category term="Bitcoin"/>
 
         <updated>2024-11-25T09:22:53+01:00</updated>
             <summary>
@@ -123,6 +127,7 @@
         </author>
         <link href="https://coinpapers.news/le-salvador-achetera-un-bitcoin-par-jour-3.html"/>
         <id>https://coinpapers.news/le-salvador-achetera-un-bitcoin-par-jour-3.html</id>
+            <category term="Bitcoin"/>
 
         <updated>2024-11-20T12:03:31+01:00</updated>
             <summary>
